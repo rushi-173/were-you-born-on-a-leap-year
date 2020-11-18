@@ -1,0 +1,23 @@
+{
+  "name": "were-you-born-on-a-leap-year",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushi-173/were-you-born-on-a-leap-year.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushi-173/were-you-born-on-a-leap-year/issues"
+  },
+  "homepage": "https://github.com/rushi-173/were-you-born-on-a-leap-year#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

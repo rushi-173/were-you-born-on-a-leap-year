@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/rushi-173/were-you-born-on-a-leap-year#readme",
   "dependencies": {
+    "chalk": "^4.1.0",
     "readline-sync": "^1.4.10"
   }
 }
